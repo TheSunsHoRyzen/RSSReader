@@ -13,7 +13,7 @@ const feedURLs = [
  */
 const feedNames = [
   "CNN Economy",
-  "NYTimes Technology",
+  "NY Times Technology",
   "BBC Science and Environment",
 ];
 

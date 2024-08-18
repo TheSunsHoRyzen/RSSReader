@@ -13,10 +13,8 @@ const Feed = ({ feed }) => {
 
   return (
     <div className="p-1 ml-5 mb-3">
-      {/* {console.log(feed)} */}
-
-      <h3>{feed.title}</h3>
-      <h5>{articleDate}</h5>
+      <h4 className="font-bold">{feed.title}</h4>
+      <h5 className="italic">{articleDate}</h5>
       <h5>{feed.content}</h5>
       <a
         href={feed.link}

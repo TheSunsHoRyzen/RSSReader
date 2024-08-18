@@ -23,7 +23,6 @@ function App() {
       <div className="flex flex-wrap justify-center gap-4">
         {articles.map((feed, id) => (
           <div className="w-3/4 max-w-lg border-2 mx-auto p-5 rounded-xl ">
-            {/* {console.log(feed)} */}
             <div className="bg-blue-900 rounded-xl flex flex-col items-center py-4 px-6 mb-5">
               <img
                 alt="RSS Feed header"

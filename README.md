@@ -17,5 +17,10 @@ This project is a web application that aggregates and displays multiple RSS feed
 - **Backend**:
   - **Express.js**: Manages API routes and handles the server-side logic to parse RSS feeds.
 - **Other**:
-  - **Axios** and **CORS** are used for data sending HTTP requests 
+  - **Axios** and **CORS** are used for sending HTTP requests 
     
+
+
+
+https://github.com/user-attachments/assets/c355e6e3-7f37-40da-881d-435bac9ea250
+

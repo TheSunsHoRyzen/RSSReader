@@ -5,14 +5,14 @@ This project is a web application that aggregates and displays multiple RSS feed
 ## Features
 
 - **Multiple RSS Feeds Display**: View articles from multiple RSS feeds side by side in a clean layout.
-- **Design**: The app is styled using TailwindCSS, ensuring that it looks good on all screen sizes.
+- **Design**: The app is styled using TailwindCSS.
 - **Backend Parsing**: An Express.js backend fetches and parses RSS feeds, sending the articles to the frontend for display.
 
 ## Technologies Used
 
 - **Frontend**: 
   - **React.js**: Handles the UI components and state management.
-  - **TailwindCSS**: Provides a responsive and modern design with utility-first CSS.
+  - **TailwindCSS**
   
 - **Backend**:
   - **Express.js**: Manages API routes and handles the server-side logic to parse RSS feeds.
